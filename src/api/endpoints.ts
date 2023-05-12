@@ -11,3 +11,4 @@ export * from "./show";
 export * from "./chapter";
 export * from "./audiobook";
 export * from "./search";
+export * from "./player";
